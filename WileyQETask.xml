@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Wiley_QE_Test_Task">
+	<test name="Release 2021.8.22 Test Task Part 1 - Java and Selenium">
+		<classes>
+			<class name="PartOne.PartOne_QuestionOne"/>
+			<class name="PartOne.PartOne_QuestionTwo"/>
+			<class name="PartOne.PartOne_QuestionThree"/>
+			<class name="PartOne.PartOne_QuestionFour"/>
+		</classes>
+	</test>
+</suite>

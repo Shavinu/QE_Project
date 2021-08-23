@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-22T09:16:35Z" name="Wiley_QE_Test_Task" finished-at="2021-08-22T09:17:17Z" duration-ms="42497">
+    <groups>
+    </groups>
+    <test started-at="2021-08-22T09:16:35Z" name="Release 2021.8.22 Test Task Part 1 - Java and Selenium" finished-at="2021-08-22T09:17:17Z" duration-ms="42497">
+      <class name="PartOne.PartOne_QuestionThree">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PartOne.PartOne_QuestionThree@279fedbd]" started-at="2021-08-22T14:46:56Z" name="beforeMethod" finished-at="2021-08-22T14:47:01Z" duration-ms="4868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod()[pri:0, instance:PartOne.PartOne_QuestionThree@279fedbd]" started-at="2021-08-22T14:47:01Z" name="testMethod" finished-at="2021-08-22T14:47:08Z" duration-ms="7219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PartOne.PartOne_QuestionThree@279fedbd]" started-at="2021-08-22T14:47:08Z" name="afterMethod" finished-at="2021-08-22T14:47:08Z" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PartOne.PartOne_QuestionThree -->
+      <class name="PartOne.PartOne_QuestionTwo">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PartOne.PartOne_QuestionTwo@752325ad]" started-at="2021-08-22T14:46:48Z" name="beforeMethod" finished-at="2021-08-22T14:46:54Z" duration-ms="5829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod()[pri:0, instance:PartOne.PartOne_QuestionTwo@752325ad]" started-at="2021-08-22T14:46:54Z" name="testMethod" finished-at="2021-08-22T14:46:56Z" duration-ms="2344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PartOne.PartOne_QuestionTwo@752325ad]" started-at="2021-08-22T14:46:56Z" name="afterMethod" finished-at="2021-08-22T14:46:56Z" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PartOne.PartOne_QuestionTwo -->
+      <class name="PartOne.PartOne_QuestionOne">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PartOne.PartOne_QuestionOne@2a5c8d3f]" started-at="2021-08-22T14:46:35Z" name="beforeMethod" finished-at="2021-08-22T14:46:41Z" duration-ms="6566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod()[pri:0, instance:PartOne.PartOne_QuestionOne@2a5c8d3f]" started-at="2021-08-22T14:46:41Z" name="testMethod" finished-at="2021-08-22T14:46:43Z" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PartOne.PartOne_QuestionOne@2a5c8d3f]" started-at="2021-08-22T14:46:43Z" name="afterMethod" finished-at="2021-08-22T14:46:48Z" duration-ms="4572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PartOne.PartOne_QuestionOne -->
+      <class name="PartOne.PartOne_QuestionFour">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PartOne.PartOne_QuestionFour@b3ca52e]" started-at="2021-08-22T14:47:08Z" name="beforeMethod" finished-at="2021-08-22T14:47:13Z" duration-ms="4425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod()[pri:0, instance:PartOne.PartOne_QuestionFour@b3ca52e]" started-at="2021-08-22T14:47:13Z" name="testMethod" finished-at="2021-08-22T14:47:17Z" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PartOne.PartOne_QuestionFour@b3ca52e]" started-at="2021-08-22T14:47:17Z" name="afterMethod" finished-at="2021-08-22T14:47:17Z" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PartOne.PartOne_QuestionFour -->
+    </test> <!-- Release 2021.8.22 Test Task Part 1 - Java and Selenium -->
+  </suite> <!-- Wiley_QE_Test_Task -->
+</testng-results>
